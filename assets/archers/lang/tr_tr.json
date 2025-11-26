@@ -1,0 +1,99 @@
+{
+  "itemGroup.archers.general": "Okçular",
+  "item.archers.auto_fire_hook.description_1": "Gerilmiş oku otomatik olarak fırlatır.",
+  "item.archers.auto_fire_hook.description_2": "Menzilli silahlara bir Örs üzerinde uygulanabilir.",
+  "item.ranged_weapon.pull_time": "%1$s sn. Çekme Süresi",
+
+  "block.archers.archers_workbench": "Okçuluk Zanaatkar Masası",
+  "block.archers.archers_workbench.hint": "Okçuluk Zanaatkarı Köylüleri için çalışma masası.",
+  "entity.minecraft.villager.archery_artisan": "Okçuluk Zanaatkarı",
+  "entity.minecraft.villager.archers.archery_artisan": "Okçuluk Zanaatkarı",
+  "entity.minecraft.villager.archers:archery_artisan": "Okçuluk Zanaatkarı",
+
+  "item.archers.auto_fire_hook": "Otomatik Atış Kancası",
+  "item.archers.small_quiver": "Sadak",
+  "item.archers.medium_quiver": "Avcı Sadağı",
+  "item.archers.large_quiver": "Savaş Sadağı",
+  "item.archers.quiver.hint": "Kuşanıldığında okçuluk için ok sağlar.",
+
+  "item.archers.flint_spear": "Çakmaktaşı Mızrak",
+  "item.archers.iron_spear": "Demir Mızrak",
+  "item.archers.golden_spear": "Altın Mızrak",
+  "item.archers.diamond_spear": "Elmas Mızrak",
+  "item.archers.netherite_spear": "Netherit Mızrak",
+  "item.archers.aeternium_spear": "Aeternium Mızrak",
+  "item.archers.ruby_spear": "Yakut Mızrak",
+  "item.archers.aether_spear": "Kutsal Mızrak",
+
+  "item.archers.archer_armor_head": "Okçu Kapüşonu",
+  "item.archers.archer_armor_chest": "Okçu Tuniği",
+  "item.archers.archer_armor_legs": "Okçu Pantolonu",
+  "item.archers.archer_armor_feet": "Okçu Botu",
+
+  "item.archers.ranger_armor_head": "Korucu Kapüşonu",
+  "item.archers.ranger_armor_chest": "Korucu Tuniği",
+  "item.archers.ranger_armor_legs": "Korucu Pantolonu",
+  "item.archers.ranger_armor_feet": "Korucu Botu",
+
+  "item.archers.netherite_ranger_armor_head": "Netherit Korucu Kapüşonu",
+  "item.archers.netherite_ranger_armor_chest": "Netherit Korucu Tuniği",
+  "item.archers.netherite_ranger_armor_legs": "Netherit Korucu Pantolonu",
+  "item.archers.netherite_ranger_armor_feet": "Netherit Korucu Botu",
+
+  "item.archers.composite_longbow": "Kompozit Uzun Yay",
+  "item.archers.mechanic_shortbow": "Mekanik Kısa Yay",
+  "item.archers.royal_longbow": "Kraliyet Uzun Yayı",
+  "item.archers.rapid_crossbow": "Seri Arbalet",
+  "item.archers.heavy_crossbow": "Ağır Arbalet",
+  "item.archers.netherite_shortbow": "Netherit Kısa Yay",
+  "item.archers.netherite_longbow": "Netherit Uzun Yay",
+  "item.archers.netherite_rapid_crossbow": "Netherit Seri Arbalet",
+  "item.archers.netherite_heavy_crossbow": "Netherit Ağır Arbalet",
+  "item.archers.crystal_shortbow": "Kristal Kısa Yay",
+  "item.archers.crystal_longbow": "Kristal Uzun Yay",
+  "item.archers.ruby_rapid_crossbow": "Yakut Seri Arbalet",
+  "item.archers.ruby_heavy_crossbow": "Yakut Ağır Arbalet",
+  "item.archers.aether_longbow": "Akropolis'in Gümüş Yayı",
+  "item.archers.aether_rapid_crossbow": "Gök Arbaleti",
+  "item.archers.aether_heavy_crossbow": "Valkür Balistası",
+
+  "item.archers.archer_spell_book": "Okçuluk El Kitabı",
+  "item.archers.archer_spell_book.spell_binding.description": "Düşmanları uzaktan yenmek için menzilli silahlar ve okçuluk becerileri kullanan Okçuların Büyü Kitabı\n- Güçlü Yönler: Uzaktan yüksek hasar verme ve hareketliliği koruma\n- Zayıf Yönler: Ağır zırhlı düşmanlar\n- Ekipman: Orta zırhlı",
+  "item.archers.archer.spell_scroll": "Okçuluk Parşömeni",
+
+  "spell.archers.power_shot.name": "Güçlü Atış",
+  "spell.archers.power_shot.description": "Sonraki {effect_amplifier_cap} okun, hedefe {effect_duration} saniye boyunca Avcı İşareti uygular, aldığı hasarı {damage_taken} artırır ve {effect_amplifier_cap} defaya kadar birikir.",
+  "effect.archers.hunters_mark_stash": "Güçlü Atış",
+  "effect.archers.hunters_mark_stash.description": "Sonraki atış Avcı İşareti uygular",
+  "effect.archers.hunters_mark": "İşaretli",
+  "effect.archers.hunters_mark.description": "Tüm kaynaklardan alınan hasarı artırır",
+
+  "spell.archers.entangling_roots.name": "Dolaşık Kökler",
+  "spell.archers.entangling_roots.description": "Yakın alandaki yerden kökler filizlendirerek düşmanları {cloud_duration} saniye boyunca yavaşlatır.",
+  "effect.archers.entangling_roots": "Dolaşık Kökler",
+  "effect.archers.entangling_roots.description": "Hareket hızını azaltır",
+
+  "spell.archers.barrage.name": "Yaylım Ateşi",
+  "spell.archers.barrage.description": "Arka arkaya hızlıca birden fazla ok fırlatır.",
+
+  "spell.archers.magic_arrow.name": "Büyülü Ok",
+  "spell.archers.magic_arrow.description": "Yolundaki tüm düşmanları delip geçen ve her hedefe {damage} hasar veren büyülü bir ok fırlatır.",
+
+  "advancements.rpg_series.path_choose_archer.title": "Okçuluk Yolu",
+  "advancements.rpg_series.path_choose_archer.description": "Okçuluk El Kitabı Oluştur",
+
+  "advancements.rpg_series.spell_novice_archer.title": "Ölümcül Atışlar",
+  "advancements.rpg_series.spell_novice_archer.description": "İlk Okçuluk becerini edin",
+
+  "advancements.rpg_series.spell_master_archer.title": "Balistik Uzmanı",
+  "advancements.rpg_series.spell_master_archer.description": "Okçuluk El Kitabını tamamla",
+
+  "advancements.rpg_series.obtain_arrow.title": "Okçunun Yolu",
+  "advancements.rpg_series.obtain_arrow.description": "Bir Ok elde et",
+
+  "advancements.rpg_series.spell_cast_archer_book.title": "Okçuluk Eğitimi",
+  "advancements.rpg_series.spell_cast_archer_book.description": "Okçuluk El Kitabından bir beceri kullan",
+
+  "advancements.rpg_series.trade_with_archery_artisan.title": "Okçuluk Satışı",
+  "advancements.rpg_series.trade_with_archery_artisan.description": "Bir Okçuluk Zanaatkarı Köylüden eşya satın al"
+}

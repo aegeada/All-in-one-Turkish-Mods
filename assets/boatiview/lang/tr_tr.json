@@ -1,0 +1,13 @@
+{
+  "boatiview.configuration.client": "Boat Item View İstemcisi",
+  "boatiview.configuration.section.boatiview.client.toml": "İstemci ayarları",
+  "boatiview.configuration.section.boatiview.client.toml.title": "İstemci ayarları",
+  "boatiview.configuration.show_hands": "Hareket Eden Teknede Eşyaları Göster",
+  "boatiview.configuration.show_hands.tooltip": "Tekne hareket halindeyken eldeki eşyanın görüntülenip görüntülenmeyeceğini belirler",
+  "boatiview.configuration.title": "Boat Item View",
+  "boatiview.configuration.whitelisted_items": "Hareket Eden Teknede Gösterilecek Eşyalar",
+  "boatiview.configuration.whitelisted_items.tooltip": "Elde görüntülenmeye devam edecek eşyalar. Bir Mod Kimliğinden (ID) sonra '*' karakteri eklemek, o moddaki tüm eşyaları dahil eder. Örn: 'modid:*'. Eğer '*' karakterinden önce bir Mod Kimliği belirtilmezse, tüm eşyalar dahil edilir. Örn: '*'",
+  "text.autoconfig.client.option.show_hands": "Hareket Eden Teknede Eşyaları Göster",
+  "text.autoconfig.client.option.whitelisted_items": "Hareket Eden Teknede Gösterilecek Eşyalar",
+  "text.autoconfig.client.title": "Boat Item View"
+}
