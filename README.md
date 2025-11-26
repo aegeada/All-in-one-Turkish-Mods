@@ -5,32 +5,32 @@ Bu bir doku paketidir ve Türkçe bir şekilde modlu Minecraft oynayabilmek içi
 # Şuana Kadar Çevrilmiş Tüm Modlar Listesi
 CTRL + F tuşlarına basarak bu listede aradığınız modu aratabilirsiniz.
 
-Archers (RPG Series)
-Armory (RPG Series)
-Arsenal (RPG Series)
-AstikorCarts Redux
-Better Advancments
-Better Combat
-Better Tridents
-Bosses'Rise
-Blueprint
-Boat Item View
-Boatload
-Caelus API
-Camera Overhaul
-Chat Heads
-Chipped
-Clean F3
-Cloth Config API
-Create Contraprion Terminals
-Create Deco
-CreativeCore
-Dramatic Doors
-When Dungeons Arise
-Elytra Trims
-Enderman Overhaul
-End Remastered
-[EMF] Entity Model Features
-[ETF] Entity Texture Features
-Entity Culling
-Relics
+"Archers (RPG Series)"
+"Armory (RPG Series)"
+"Arsenal (RPG Series)"
+"AstikorCarts Redux"
+"Better Advancments"
+"Better Combat"
+"Better Tridents"
+"Bosses'Rise"
+"Blueprint"
+"Boat Item View"
+"Boatload"
+"Caelus API"
+"Camera Overhaul"
+"Chat Heads"
+"Chipped"
+"Clean F3"
+"Cloth Config API"
+"Create Contraprion Terminals"
+"Create Deco"
+"CreativeCore"
+"Dramatic Doors"
+"When Dungeons Arise"
+"Elytra Trims"
+"Enderman Overhaul"
+"End Remastered"
+"[EMF] Entity Model Features"
+"[ETF] Entity Texture Features"
+"Entity Culling"
+"Relics"
