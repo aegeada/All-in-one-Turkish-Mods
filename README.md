@@ -17,7 +17,7 @@ Modlu Minecraft oynarken karşılaşılan dil bariyerini aşmak ve daha keyifli 
 5.  Önemli: Bu paketi listenin **en üstüne** taşıyın ki diğer modların dillerini ezebilsin.
 
 ## 📝 İletişim ve Hata Bildirimi
-Çevirilerde bir hata, mantıksızlık veya eksiklik görürseniz lütfen bildirin. Ayrıca çevrilmesini istediğiniz özel bir mod varsa iletişime geçmekten çekinmeyin; o moda öncelik verebilirim.
+Çevirilerde bir hata, mantıksızlık veya eksiklik görürseniz lütfen bildirin. Ayrıca çevrilmesini istediğiniz özel bir mod varsa iletişime geçmekten çekinmeyin, o moda öncelik verebilirim.
 
 ---
 
