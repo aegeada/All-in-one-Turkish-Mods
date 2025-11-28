@@ -1,0 +1,14 @@
+{
+  "item.simplest_copper_gear.copper_sword": "Bakır Kılıç",
+  "item.simplest_copper_gear.copper_pickaxe": "Bakır Kazma",
+  "item.simplest_copper_gear.copper_shovel": "Bakır Kürek",
+  "item.simplest_copper_gear.copper_axe": "Bakır Balta",
+  "item.simplest_copper_gear.copper_hoe": "Bakır Çapa",
+
+  "item.simplest_copper_gear.copper_helmet": "Bakır Kask",
+  "item.simplest_copper_gear.copper_chestplate": "Bakır Göğüslük",
+  "item.simplest_copper_gear.copper_leggings": "Bakır Pantolon",
+  "item.simplest_copper_gear.copper_boots": "Bakır Bot",
+
+  "creativetab.simplest_copper_gear_tab": "En Basit Bakır Ekipman"
+}

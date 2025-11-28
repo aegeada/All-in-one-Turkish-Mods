@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.betterthirdperson.title": "Better Third Person",
+  "text.autoconfig.betterthirdperson.option.aimOnInteract": "Etkileşimde Nişan Al",
+  "text.autoconfig.betterthirdperson.option.followYaw": "Sapma Açısını (Yaw) Takip Et",
+  "text.autoconfig.betterthirdperson.option.freeCameraDuringElytraFlight": "Elitra Uçuşunda Serbest Kamera",
+  "text.autoconfig.betterthirdperson.option.skipThirdPersonFrontView": "Üçüncü Şahıs Önden Görünümü Atla",
+  "text.autoconfig.betterthirdperson.option.playerRotationSpeed": "Oyuncu Dönüş Hızı",
+  "text.autoconfig.betterthirdperson.option.aimDuration": "Nişan Alma Süresi",
+  "text.autoconfig.betterthirdperson.option.pitchChangeSpeed": "Eğim (Pitch) Değişim Hızı"
+}

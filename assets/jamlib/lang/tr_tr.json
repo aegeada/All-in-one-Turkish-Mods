@@ -1,0 +1,20 @@
+{
+  "config.jamlib.selection_screen_title": "%s için Yapılandırma Seç",
+  "config.jamlib.open": "Aç",
+  "config.jamlib.edit_manually": "Manuel Düzenle",
+  "config.jamlib.reset": "Sıfırla",
+  "config.jamlib.reset_tooltip": "Varsayılan Değere Sıfırla",
+  "config.jamlib.matches_regex_tooltip": "Değer şu düzenli ifadeyle (regex) eşleşmelidir: %s",
+  "config.jamlib.requires_restart_tooltip": "Bu değişikliğin etkili olması için yeniden başlatma gerekir",
+  "config.jamlib.within_range_tooltip": "Değer %d ile %d arasında olmalıdır",
+  "text.jamlib.renamed_1": "Aşağıdaki mod dosyaları yeniden adlandırılmış - bu genellikle bir modun %s olduğunun işaretidir.",
+  "text.jamlib.renamed_1.1": "izinsiz dağıtıldığının",
+  "text.jamlib.renamed_2": "%s gibi siteler %s ve %s amacıyla kullanılabilir. Modlar resmi olarak %s ve %s üzerinde bulunabilir.",
+  "text.jamlib.renamed_2.1": "9minecraft",
+  "text.jamlib.renamed_2.2": "mod geliştiricilerine zarar verir",
+  "text.jamlib.renamed_2.3": "kötü amaçlı yazılım dağıtmak",
+  "text.jamlib.renamed_2.4": "CurseForge",
+  "text.jamlib.renamed_2.5": "Modrinth",
+  "text.jamlib.renamed_3": "Bu mesaj sadece bir kez görünecektir. %s.",
+  "text.jamlib.renamed_3.1": "Bunun hatalı bir tespit olduğunu düşünüyorsanız, lütfen mod yazarıyla iletişime geçin"
+}

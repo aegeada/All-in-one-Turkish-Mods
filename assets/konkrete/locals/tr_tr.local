@@ -1,0 +1,19 @@
+general.width = Genişlik
+general.height = Yükseklik
+general.on = Açık
+general.off = Kapalı
+
+popup.done = Tamam
+
+popup.yesno.confirm = Onayla
+popup.yesno.cancel = İptal
+
+popup.notification.accept = Kabul Et
+
+popup.choosefile.back = GERİ
+popup.choosefile.title = Dosya Seç
+popup.choosefile.choose = Seç
+popup.choosefile.supported = Desteklenen dosya türleri:
+
+configscreen.boolean.enabled = Etkin
+configscreen.boolean.disabled = Devre Dışı

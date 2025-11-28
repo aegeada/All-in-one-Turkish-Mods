@@ -1,0 +1,36 @@
+{
+  "mcwfences.stackable.desc": "Daha uzun olması için yukarı doğru istiflenebilir",
+
+  "block.mcwfences.acorn_metal_fence": "Palamut Metal Çit",
+  "block.mcwfences.panelled_metal_fence": "Panelli Metal Çit",
+  "block.mcwfences.mesh_metal_fence": "Örgü Metal Çit",
+  "block.mcwfences.ornate_metal_fence": "Süslü Metal Çit",
+  "block.mcwfences.guardian_metal_fence": "Muhafız Metal Çit",
+  "block.mcwfences.gothic_metal_fence": "Gotik Metal Çit",
+  "block.mcwfences.vintage_metal_fence": "Nostaljik Metal Çit",
+  "block.mcwfences.curved_metal_fence": "Kavisli Metal Çit",
+  "block.mcwfences.twilight_metal_fence": "Alacakaranlık Metal Çit",
+  "block.mcwfences.expanded_mesh_metal_fence": "Genişletilmiş Örgü Metal Çit",
+  "block.mcwfences.fortress_metal_fence": "Kale Metal Çit",
+  "block.mcwfences.bastion_metal_fence": "Burç Metal Çit",
+  "block.mcwfences.double_curved_metal_fence": "Çift Kavisli Metal Çit",
+  "block.mcwfences.cathedral_metal_fence": "Katedral Metal Çit",
+
+  "block.mcwfences.majestic_metal_fence_gate": "Görkemli Metal Çit Kapısı",
+  "block.mcwfences.curved_metal_fence_gate": "Kavisli Metal Çit Kapısı",
+  "block.mcwfences.mesh_metal_fence_gate": "Örgü Metal Çit Kapısı",
+  "block.mcwfences.panelled_metal_fence_gate": "Panelli Metal Çit Kapısı",
+  "block.mcwfences.bastion_metal_fence_gate": "Burç Metal Çit Kapısı",
+
+  "block.mcwfences.oak_curved_gate": "Meşe Kavisli Kapı",
+  "block.mcwfences.spruce_curved_gate": "Ladin Kavisli Kapı",
+  "block.mcwfences.birch_curved_gate": "Huş Kavisli Kapı",
+  "block.mcwfences.jungle_curved_gate": "Orman Kavisli Kapı",
+  "block.mcwfences.acacia_curved_gate": "Akasya Kavisli Kapı",
+  "block.mcwfences.dark_oak_curved_gate": "Koyu Meşe Kavisli Kapı",
+  "block.mcwfences.crimson_curved_gate": "Kızıl Kavisli Kapı",
+  "block.mcwfences.warped_curved_gate": "Çarpık Kavisli Kapı",
+  "block.mcwfences.mangrove_curved_gate": "Mangrov Kavisli Kapı",
+  "block.mcwfences.cherry_curved_gate": "Kiraz Kavisli Kapı",
+  "block.mcwfences.bamboo_curved_gate": "Bambu Kavisli Kapı"
+}

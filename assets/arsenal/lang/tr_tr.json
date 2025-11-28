@@ -61,7 +61,7 @@
   "item.arsenal.unique_staff_heal_1": "Kristal Yaşam Asası",
   "item.arsenal.unique_staff_heal_2": "Kusursuz İyileşme Asası",
   "item.arsenal.unique_staff_heal_sw": "Sin'dorei'nin Altın Asası",
-  "itemGroup.arsenal.generic": "Cephanelik",
+  "itemGroup.arsenal.generic": "Silahhane",
   "spell.arsenal.bonus_shot_ranged.description": "Ok isabetinde: Ek bir ok fırlatmak için {trigger_chance} şans.",
   "spell.arsenal.bonus_shot_ranged.name": "Ekstra Atış",
   "spell.arsenal.chain_reaction_spell.description": "Büyü kritik vuruşunda: Zincirleme reaksiyonlu bir büyü mermisi fırlatarak {damage} büyü hasarı verir.",

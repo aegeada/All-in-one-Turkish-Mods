@@ -1,0 +1,19 @@
+{
+  "block.sliceanddice.fertilizer": "Gübre",
+  "block.sliceanddice.slicer": "Dilimleyici",
+  "block.sliceanddice.sprinkler": "Fıskiye",
+  "block.sliceanddice.wet_air": "Islak Hava",
+  "fluid.sliceanddice.fertilizer": "Sıvı Gübre",
+  "item.sliceanddice.fertilizer_bucket": "Sıvı Gübre Kovası",
+  "sliceanddice.gui.contraptions.wrong_direction": "Görünüşe göre bu %s _yanlış yönde_ dönüyor.",
+  "sliceanddice.ponder.slicer.header": "Dilimleyici ile Kesme",
+  "sliceanddice.ponder.slicer.text_1": "Geçerli bir aletle üzerine sağ tıklayın",
+  "sliceanddice.ponder.slicer.text_2": "Dilimleyici ayrıca bir tekne üzerinde de çalışabilir",
+  "sliceanddice.ponder.sprinkler/intro.header": "Üstten Serpme",
+  "sliceanddice.ponder.sprinkler/intro.text_1": "Bir borunun altına fıskiye yerleştirin",
+  "sliceanddice.ponder.sprinkler/uses.header": "Serpme Türleri",
+  "sliceanddice.ponder.sprinkler/uses.text_1": "Farklı sıvılar varlıkları da farklı şekilde etkiler",
+  "sliceanddice.recipe.assembly.slicer": "Dilimleyici ile Kes",
+  "sliceanddice.recipe.slicer": "Dilimleyici",
+  "sliceanddice.tooltip.rotationDirection": "Dönüş Yönü"
+}

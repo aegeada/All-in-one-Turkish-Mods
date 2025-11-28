@@ -1,0 +1,6 @@
+{
+  "block.village_taverns.barrel": "Mayalama Fıçısı",
+  "block.village_taverns.barrel.hint": "Barmen Köylüler için çalışma masası.",
+  "entity.minecraft.villager.bartender": "Barmen",
+  "entity.minecraft.villager.village_taverns.bartender": "Barmen"
+}

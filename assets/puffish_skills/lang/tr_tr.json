@@ -1,0 +1,64 @@
+{
+    "text.puffish_skills.skills": "Beceriler",
+    "text.puffish_skills.points_left": "Kalan puanlar: ",
+
+    "tooltip.puffish_skills.current_level": "Mevcut seviye: %s",
+    "tooltip.puffish_skills.experience_progress": "Tecrübe: %s/%s (%%%s)",
+    "tooltip.puffish_skills.to_next_level": "Sonraki seviyeye: %s",
+    "tooltip.puffish_skills.earned_points": "Kazanılan puanlar: %s",
+    "tooltip.puffish_skills.spent_points": "Harcanan puanlar: %s",
+
+    "category.puffish_skills.skills": "Beceriler",
+    "key.puffish_skills.open": "Beceri Ağacını Aç",
+
+    "chat.puffish_skills.new_point": "Yeni bir beceri puanınız var. Beceri ağacınızı açmak için %s tuşuna basın.",
+
+    "toast.puffish_skills.invalid_config.description": "Geçersiz yapılandırma, oyun günlüklerini kontrol edin.",
+    "toast.puffish_skills.missing_config.description": "Hiçbir beceri ağacı sağlanmadı, bir tane eklediğinizden emin olun.",
+
+    "gamerule.puffish_skills:announceNewPoints": "Yeni beceri puanlarını duyur",
+
+    "command.puffish_skills.no_such_category": "%s kimliğine sahip bir kategori yok",
+    "command.puffish_skills.no_such_skill": "%s kimliğine sahip bir beceri yok",
+    "command.puffish_skills.no_experience": "Bu kategori için tecrübe etkinleştirilmemiş",
+
+    "command.puffish_skills.category.lock.success.single": "%2$s için %1$s kategorisi kilitlendi",
+    "command.puffish_skills.category.lock.success.multiple": "%2$s oyuncu için %1$s kategorisi kilitlendi",
+
+    "command.puffish_skills.category.unlock.success.single": "%2$s için %1$s kategorisinin kilidi açıldı",
+    "command.puffish_skills.category.unlock.success.multiple": "%2$s oyuncu için %1$s kategorisinin kilidi açıldı",
+
+    "command.puffish_skills.category.erase.success.single": "%2$s için %1$s kategorisi silindi",
+    "command.puffish_skills.category.erase.success.multiple": "%2$s oyuncu için %1$s kategorisi silindi",
+
+    "command.puffish_skills.experience.add.success.single": "%3$s için %2$s kategorisine %1$s tecrübe eklendi",
+    "command.puffish_skills.experience.add.success.multiple": "%3$s oyuncu için %2$s kategorisine %1$s tecrübe eklendi",
+
+    "command.puffish_skills.experience.set.success.single": "%3$s için %2$s kategorisindeki tecrübe %1$s olarak ayarlandı",
+    "command.puffish_skills.experience.set.success.multiple": "%3$s oyuncu için %2$s kategorisindeki tecrübe %1$s olarak ayarlandı",
+
+    "command.puffish_skills.experience.get.success": "%3$s kişisinin %2$s kategorisinde %1$s tecrübesi var",
+
+    "command.puffish_skills.points.add.success.single": "%3$s için %2$s kategorisine %1$s puan eklendi",
+    "command.puffish_skills.points.add.success.multiple": "%3$s oyuncu için %2$s kategorisine %1$s puan eklendi",
+
+    "command.puffish_skills.points.set.success.single": "%3$s için %2$s kategorisindeki puanlar %1$s olarak ayarlandı",
+    "command.puffish_skills.points.set.success.multiple": "%3$s oyuncu için %2$s kategorisindeki puanlar %1$s olarak ayarlandı",
+
+    "command.puffish_skills.points.get.success": "%3$s kişisinin %2$s kategorisinde %1$s puanı var",
+
+    "command.puffish_skills.skills.unlock.success.single": "%3$s için %2$s kategorisindeki %1$s becerisinin kilidi açıldı",
+    "command.puffish_skills.skills.unlock.success.multiple": "%3$s oyuncu için %2$s kategorisindeki %1$s becerisinin kilidi açıldı",
+
+    "command.puffish_skills.skills.lock.success.single": "%3$s için %2$s kategorisindeki %1$s becerisi kilitlendi",
+    "command.puffish_skills.skills.lock.success.multiple": "%3$s oyuncu için %2$s kategorisindeki %1$s becerisi kilitlendi",
+
+    "command.puffish_skills.skills.reset.success.single": "%2$s için %1$s kategorisindeki tüm beceriler sıfırlandı",
+    "command.puffish_skills.skills.reset.success.multiple": "%2$s oyuncu için %1$s kategorisindeki tüm beceriler sıfırlandı",
+
+    "command.puffish_skills.category.open.success.single": "%2$s için %1$s kategorisi ekranı açıldı",
+    "command.puffish_skills.category.open.success.multiple": "%2$s oyuncu için %1$s kategorisi ekranı açıldı",
+
+    "command.puffish_skills.open.success.single": "%s için beceriler ekranı açıldı",
+    "command.puffish_skills.open.success.multiple": "%s oyuncu için beceriler ekranı açıldı"
+}

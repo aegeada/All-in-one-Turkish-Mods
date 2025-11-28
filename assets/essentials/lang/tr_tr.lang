@@ -1,0 +1,364 @@
+# Essential Translations
+## Menus
+# Friends Menu
+gui.menu.friends.titletext=Arkadaşlar
+
+# Cosmetic Studio Menu
+gui.menu.cosmeticstudio.next=Sonraki Kozmetik
+gui.menu.cosmeticstudio.previous=Önceki Kozmetik
+gui.menu.cosmeticstudio.previewnone=Önizleme Yok
+gui.menu.cosmeticstudio.togglespin=Döndürmeyi Aç/Kapat
+gui.menu.cosmeticstudio.togglefollowmouse=Fare Takibini Aç/Kapat
+gui.menu.cosmeticstudio.resetspin=Döndürmeyi Sıfırla
+gui.menu.cosmeticstudio.previewing=Önizleme:
+gui.menu.cosmeticstudio.none=Yok
+gui.menu.cosmeticstudio.adjustposition=Pozisyonu Ayarla:
+
+studio.BACK=Sırt
+studio.EARS=Kulaklar
+studio.FACE=Yüz
+studio.FULL_BODY=Kostüm
+studio.HAT=Şapka
+studio.PET=Evcil Hayvan
+studio.TAIL=Kuyruk
+studio.ARMS=Kollar
+studio.SUITS=Kostüm
+studio.SHOES=Ayakkabılar
+studio.PANTS=Pantolon
+studio.WINGS=Kanatlar
+studio.FEATURED=Öne Çıkanlar
+studio.OWNED=Sahip Olunanlar
+studio.CAPE=Pelerin
+studio.PARTNER=Partnerler
+studio.NEW=Yeni
+studio.SHOULDERS=Omuzlar
+studio.test=Test Etkinliği
+studio.100T=100 Thieves
+studio.INSANE=InsaneCraft
+studio.HALLOWEEN=Ürkütücü
+studio.TEAMSEAS=#TeamSeas
+studio.RED=(RED)
+studio.WINTER=Kış
+studio.EFFECT=Efekt
+studio.FLAME=Alev
+studio.HACKER=Hacker
+
+## Configuration
+# Configuration Names
+gui.config.name.friendnotifications=Arkadaş Bildirimleri
+gui.config.name.messagereceivednotifications=Mesaj Alındı Bildirimleri
+gui.config.name.messagegroupupdate=Mesaj Grubu Güncellemesi
+
+# Configuration Descriptions
+gui.config.description.displayfriendnotifs=Arkadaş eylemleri için bildirimleri göster
+gui.config.description.displaymessagenotifs=Alınan mesajlar için bildirimleri göster
+gui.config.description.displaygroupupdates=Grup güncellemeleri için bildirimleri göster
+
+# Configuration Categories
+gui.config.category.notifications=Bildirimler
+
+# Configuration Subcategories
+gui.config.subcategory.friends=Arkadaşlar
+gui.config.subcategory.messages=Mesajlar
+
+## Feedback
+# Command Feedback
+command.feedback.refreshpurchases=Profilin yenileniyor
+
+# Keybind Feedback
+keybind.feedback.lookatplayerfriend=Arkadaş olarak eklemek için bir oyuncuya bak!
+keybind.feedback.alreadyfriends=Bu kişiyle zaten arkadaşsın!
+keybind.feedback.blockedbyplayerfriend=Bu oyuncu seni engellediği için onu arkadaş olarak ekleyemezsin!
+keybind.feedback.hasplayerblockedfriend=Bu oyuncuyu engellediğin için arkadaş olarak ekleyemezsin! Önce engelini kaldırmayı dene.
+keybind.feedback.alreadypendingfriendrequest=Onlara zaten bir arkadaşlık isteği gönderdin!
+keybind.feedback.sendingfriendrequest=%s adlı oyuncuya arkadaşlık isteği gönderiliyor
+keybind.feedback.lookatplayermessage=Mesaj göndermek için bir oyuncuya bak!
+keybind.feedback.notfriendedmessage=Essential arkadaşı olmadığın sürece bir oyuncuya mesaj atamazsın! Önce onu arkadaş olarak eklemeyi dene!
+keybind.feedback.openconversationmessage=%s ile sohbet açılmaya çalışılıyor
+
+## Keybinds
+key.category.essential.general=Essential
+keybind.name.ESSENTIAL_FRIENDS=Arkadaş Arayüzünü Aç
+keybind.name.COSMETIC_STUDIO=Gardırobu Aç
+Open Cosmetic Studio=Gardırobu Aç
+keybind.name.ZOOM=Yakınlaştır
+keybind.name.COSMETICS_VISIBILITY_TOGGLE=Kozmetiklerimi Göster/Gizle
+Cosmetic Visibility Toggle=Kozmetiklerimi Göster/Gizle
+keybind.name.CHAT_PEEK=Sohbete Göz At
+keybind.name.INVITE_FRIENDS=Arkadaş Davet Et
+keybind.name.SCREENSHOT_MANAGER=Ekran Görüntüsü Yöneticisi
+keybind.name.MENU_ACCESS=Hızlı Erişim Menüsünü Aç
+# Emote Keybinds
+keybind.name.EMOTE_WHEEL=İfade Çarkını Aç
+keybind.name.EMOTE_SLOT_1=Sol Üst İfadeyi Oynat
+keybind.name.EMOTE_SLOT_2=Orta Üst İfadeyi Oynat
+keybind.name.EMOTE_SLOT_3=Sağ Üst İfadeyi Oynat
+keybind.name.EMOTE_SLOT_4=Sol Orta İfadeyi Oynat
+keybind.name.EMOTE_SLOT_5=Sağ Orta İfadeyi Oynat
+keybind.name.EMOTE_SLOT_6=Sol Alt İfadeyi Oynat
+keybind.name.EMOTE_SLOT_7=Orta Alt İfadeyi Oynat
+keybind.name.EMOTE_SLOT_8=Sağ Alt İfadeyi Oynat
+
+keybind.error.nonplayer=Bu oyuncu geçerli değil!
+
+## Notifications
+# Notification Titles
+notification.title.message=Mesaj
+notification.title.friends=Arkadaşlar
+notification.title.messages=Mesajlar
+notification.title.failedgroupcreation=Grup Oluşturma Başarısız
+notification.title.groupcreated=Grup Oluşturuldu
+
+# Notification Messages - Friends
+notification.message.acceptedfriend=Artık %s ile arkadaşsın!
+notification.message.removedfriend=Artık %s ile arkadaş değilsin!
+notification.message.sentfriendrequest=%s bir arkadaşlık isteği gönderdi!
+notification.message.cancelledfriendrequest=%s %s arkadaşlık isteği iptal edildi!
+notification.message.cancelledfriendrequestto=kime:
+notification.message.cancelledfriendr[]'equestfrom=kimden:
+notification.message.deniedfriendrequest=%s arkadaşlık isteğini reddetti!
+notification.message.deniedfriendrequest_alt=%s tarafından gelen arkadaşlık isteği reddedildi
+notification.message.blockedfriendrequest=%s seni engelledi!
+notification.message.hasblockedfriendrequest=%s engellendi!
+notification.message.unblockedfriendrequest=%s engelini kaldırdı!
+notification.message.hasunblockedfriendrequest=%s engeli kaldırıldı!
+notification.message.requestsuccess=%s adlı oyuncuya arkadaşlık isteği başarıyla gönderildi
+
+# Notification Messages - Messaging
+notification.message.newmessage=%s kişisinden %s içinde mesaj
+notification.message.newmessage_dm=%s kişisinden mesaj
+notification.message.groupcreated=Grup oluşturuldu!
+
+# Cosmetics
+cosmetics.WINGS=Kanatlar
+cosmetics.DRAGON_COMPANION=Ejderha Yoldaş
+cosmetics.DRAGON_HEAD=Ejderha Kafası
+cosmetics.FEZ_HAT=Fes
+cosmetics.LEGO_HAT=Lego Şapkası
+cosmetics.TOP_HAT=Silindir Şapka
+cosmetics.CUSTOM_CAPE_STATIC=Özel Pelerin (Statik)
+cosmetics.CUSTOM_CAPE_DYNAMIC=Özel Pelerin (Dinamik)
+cosmetics.NITRO_CAPE=Nitro Pelerini
+cosmetics.EXAMPLE_CAPE=Örnek Pelerin
+cosmetics.TAB_DOT=Tab Noktası
+cosmetics.HEAD_TEXT=Kafa Yazısı
+cosmetics.COLONIST_HAT=Kolonist Şapkası
+cosmetics.JETPACK=Jetpack
+cosmetics.GENERIC_BACKPACK=Sırt Çantası
+cosmetics.DOG_BACKPACK=Köpek Sırt Çantası
+cosmetics.AIRPODS=Airpods
+cosmetics.TAN_BACKPACK=Taba Rengi Sırt Çantası
+cosmetics.ELEPHANT_BACKPACK=Fil Sırt Çantası
+cosmetics.FEATHER_TOPHAT=Tüylü Silindir Şapka
+cosmetics.EARS=Kulaklar
+cosmetics.HEADSET=Kulaklık (Mikrofonlu)
+cosmetics.SUNGLASSES=Güneş Gözlüğü
+cosmetics.CUSTOM_SKIN_STATIC=Özel Cilt Statik
+cosmetics.CUSTOM_SKIN_DYNAMIC=Özel Cilt Dinamik
+cosmetics.LEGO_MAESTRO_CAPE=Lego Maestro Pelerini
+cosmetics.FLIP=Takla
+cosmetics.DOG_FILTER=Köpek Filtresi
+cosmetics.TURTLE_BACKPACK=Kaplumbağa Sırt Çantası
+cosmetics.MONKEY_BACKPACK=Maymun Sırt Çantası
+cosmetics.KING_CROWN=Kral Tacı
+cosmetics.QUEEN_CROWN=Kraliçe Tacı
+cosmetics.FLOWER_CROWN=Çiçek Tacı
+cosmetics.FIRE_JETPACK=Ateş Jetpack
+cosmetics.WATER_JETPACK=Su Jetpack
+cosmetics.MAGIC_JETPACK=Sihir Jetpack
+cosmetics.ANGEL_WINGS=Melek Kanatları
+cosmetics.DEMON_WINGS=Şeytan Kanatları
+cosmetics.HEADPHONES=Kulaklık
+cosmetics.ROBOT_HELPMET=Robot Kaskı
+cosmetics.FROG_HAT=Kurbağa Şapkası
+cosmetics.SPACESUIT_HELMET=Uzay Giysisi Kaskı
+cosmetics.PROPELLER_HAT=Pervaneli Şapka
+cosmetics.FRANKENSTEIN_BOLTS=Frankenstein Cıvataları
+cosmetics.EARMUFFS=Kulak Isıtıcısı
+cosmetics.HEADBANDS=Kafa Bantları
+cosmetics.UNICORN__HORN=Tekboynuz Boynuzu
+cosmetics.VIKING_HELMET=Viking Miğferi
+cosmetics.ARROW_THROUGH_HEAD=Kafadan Geçen Ok
+cosmetics.DEVIL_HORNS=Şeytan Boynuzları
+cosmetics.COWBOY_HAT=Kovboy Şapkası
+cosmetics.TALL_COWBOY_HAT=Uzun Kovboy Şapkası
+cosmetics.CAT_EARS=Kedi Kulakları
+cosmetics.RABBIT_EARS=Tavşan Kulakları
+cosmetics.DOG_EARS=Köpek Kulakları
+cosmetics.PANDA_EARS=Panda Kulakları
+cosmetics.KANGAROO_EARS=Kanguru Kulakları
+cosmetics.ALIEN_EARS=Uzaylı Kulakları
+cosmetics.SUPER_TALL_COWBOY_HAT=Süper Uzun Kovboy Şapkası
+cosmetics.DEAL_WITH_IT_GLASSES=Havalı Gözlük (Deal With It)
+cosmetics.THREE_D_GLASSES=3D Gözlük
+cosmetics.CAT_FILTER=Kedi Filtresi
+cosmetics.RABBIT_FILTER=Tavşan Filtresi
+cosmetics.MONOCLE=Monokl
+cosmetics.TIKI_MASK=Tiki Maskesi
+cosmetics.BANANA_OUTFIT=Muz Kıyafeti
+cosmetics.ENDER_DRAGON_OUTFIT=Ender Ejderhası Kıyafeti
+cosmetics.SPACE_SUIT=Uzay Giysisi
+cosmetics.GOATEE=Keçi Sakalı
+cosmetics.OLD_DUTCH_BEARD=Eski Hollanda Sakalı
+cosmetics.SOUL_PATCH=Çene Altı Sakalı
+cosmetics.MUTTON_CHOPS_BEARD=Favori Sakal
+cosmetics.A_LA_SOUVAROV_BEARD=Suvarov Sakalı
+cosmetics.PHARAOH_HEADDRESS=Firavun Başlığı
+cosmetics.VAN_DYKE_BEARD=Van Dyke Sakalı
+cosmetics.SHORT_BOXED_BEARD=Kısa Kutu Sakal
+cosmetics.SPARROW_BEARD=Serçe Sakal
+cosmetics.FRANZ_JOSEF_BEARD=Franz Josef Sakalı
+cosmetics.HOLLYWOOD_BEARD=Hollywood Sakalı
+cosmetics.FU_MANCHU_MUSTACHE=Fu Manchu Bıyığı
+cosmetics.LONG_BOXED_BEARD=Uzun Kutu Sakal
+cosmetics.PHARAOH_BEARD=Firavun Sakalı
+cosmetics.SAMURAI_MASK_HELMET=Samuray Maskesi Miğferi
+cosmetics.SAMURAI_HELMET=Samuray Miğferi
+cosmetics.DRAGON_TAIL=Ejderha Kuyruğu
+cosmetics.CHEF_HAT=Aşçı Şapkası
+cosmetics.FIREFIGHTER_HELMET=İtfaiyeci Kaskı
+cosmetics.SODA_HAT=Meşrubat Şapkası
+cosmetics.SOMBRERO=Sombrero
+cosmetics.CLOWN_MASK=Palyaço Maskesi
+cosmetics.ARMY_HELMET=Ordu Kaskı
+cosmetics.PILOT_HAT=Pilot Şapkası
+cosmetics.PIRATE_HAT=Korsan Şapkası
+cosmetics.STEAMPUNK_HAT=Steampunk Şapkası
+cosmetics.RASTA_WIG=Rasta Peruk
+cosmetics.GAS_MASK=Gaz Maskesi
+cosmetic.BIONIC_CYBORG_FACE=Biyonik
+cosmetic.BITZEL_SOCK_MONKEY.partnername=Bitzel
+cosmetic.HAPICO_FROG.partnername=Hapico
+cosmetic.BIFFLE_MONOCLE.partnername=Biffle
+cosmetic.HENRY_COSMETIC.partnername=Henwy
+cosmetic.JEROME_BEAR_ONESIE.partnername=JeromeASF
+cosmetic.SSUNDEE_FOOT_ONESIE.partnername=SSundee
+cosmetic.SIGILS_STARTER_KIT.partnername=Sigils
+cosmetic.MEFS_TACO_WINGS.partnername=Mefs
+cosmetic.MICHAELMCCHIL_ALESIA_BACKPACK.partnername=Michaelmcchill
+cosmetic.KRINIOS_KEY_WINGS.partnername=Krinios
+
+
+connectionmanager.friends.EXISTING_REQUEST_IS_PENDING=Bu kişiye zaten bir arkadaşlık isteği gönderdin
+connectionmanager.friends.SENDER_TYPE_VERIFIED_SLOT_LIMIT=Maksimum arkadaş sayısına ulaştın. Daha fazla eklemek için bazılarını çıkar.
+connectionmanager.friends.TARGET_TYPE_VERIFIED_SLOT_LIMIT=Bu kişi maksimum arkadaş sayısına ulaştı
+connectionmanager.friends.NO_PENDING_REQUEST_TO_VERIFY=Kabul edilecek arkadaşlık isteği bulunamadı
+connectionmanager.friends.VERIFIED_RELATIONSHIP_ALREADY_EXISTS=Bu kişiyle zaten arkadaşsın
+connectionmanager.friends.NO_BLOCKED_RELATIONSHIP_TO_CONVERT=Bu kişiyi engellerken bir hata oluştu
+connectionmanager.friends.SENDER_BLOCKED_TARGET=Bu kişiyi engelledin. Arkadaşlık isteği göndermek için engelini kaldır
+connectionmanager.friends.TARGET_BLOCKED_SENDER=Bu kişi seni engellemiş
+connectionmanager.friends.SENDER_TYPE_OUTGOING_SLOT_LIMIT=Bekleyen maksimum arkadaşlık isteği sayısına ulaştın. Daha fazla göndermeden önce bazılarını iptal et
+connectionmanager.friends.TARGET_TYPE_INCOMING_SLOT_LIMIT=Bu kişinin çok fazla gelen arkadaşlık isteği var
+connectionmanager.friends.TARGET_PRIVACY_SETTING_FRIEND_OF_FRIENDS=Bu kişi yalnızca ortak arkadaşlardan gelen istekleri kabul ediyor
+connectionmanager.friends.TARGET_PRIVACY_SETTING_NO_ONE=Bu kişi şu anda arkadaşlık isteği kabul etmiyor
+connectionmanager.friends.TARGET_NOT_EXIST=Oyuncu bulunamadı
+
+## World Settings
+# Game Rules
+gamerule.announceAdvancements=Gelişmeleri duyur
+gamerule.announceAdvancements.description=Sohbette gelişmeleri duyurur.
+gamerule.commandBlocksEnabled=Komut blokları etkin
+gamerule.commandBlocksEnabled.description=Komut bloklarının komut yürütmesini sağlar.
+gamerule.commandBlockOutput=Komut bloğu çıktısı
+gamerule.commandBlockOutput.description=Komut bloğu çıktısını sohbette yöneticilere gösterir.
+gamerule.disableElytraMovementCheck=Elitra hareket denetimini devre dışı bırak
+gamerule.disableElytraMovementCheck.description=Anti-hile korumasını devre dışı bırakarak elitra titremesini önler.
+gamerule.disableRaids=Baskınları devre dışı bırak
+gamerule.disableRaids.description=Köy baskınlarını devre dışı bırakır.
+gamerule.doDaylightCycle=Gece-gündüz döngüsü
+gamerule.doDaylightCycle.description=Günün saati ilerler.
+gamerule.doEntityDrops=Varlık ganimetleri
+gamerule.doEntityDrops.description=Maden arabaları ve Eşya Çerçeveleri gibi canlı olmayan varlıklar eşya düşürür.
+gamerule.doFireTick=Ateş yayılması
+gamerule.doFireTick.description=Ateş yayılır ve blokları yok eder.
+gamerule.doInsomnia=Uykusuzluk yap
+gamerule.doInsomnia.description=Geceleri Fantomlar doğar.
+gamerule.doImmediateRespawn=Anında yeniden doğ
+gamerule.doImmediateRespawn.description=Oyuncular ölüm ekranını görmeden anında yeniden doğar.
+gamerule.doLimitedCrafting=Kısıtlı üretim yap
+gamerule.doLimitedCrafting.description=Oyuncular sadece kilidini açtıkları tarifleri üretebilir.
+gamerule.doMobLoot=Yaratık ganimetleri
+gamerule.doMobLoot.description=Koyun ve Zombi gibi yaratıklar eşya ve TP düşürür.
+gamerule.doMobSpawning=Yaratık doğumu
+gamerule.doMobSpawning.description=Yaratıklar doğal olarak doğar.
+gamerule.doPatrolSpawning=Devriye doğumu
+gamerule.doPatrolSpawning.description=Devriyeler doğal olarak doğar.
+gamerule.doTileDrops=Blok düşürmeleri
+gamerule.doTileDrops.description=Bloklar yok edildiğinde eşya düşürür.
+gamerule.doTraderSpawning=Tüccar doğumu
+gamerule.doTraderSpawning.description=Gezgin tüccarlar doğabilir.
+gamerule.doWeatherCycle=Hava durumu döngüsü
+gamerule.doWeatherCycle.description=Hava durumu değişiklikleri doğal olarak gerçekleşir.
+gamerule.doWardenSpawning=Warden doğumu
+gamerule.doWardenSpawning.description=Wardenlar doğabilir.
+gamerule.drowningDamage=Boğulma hasarı
+gamerule.drowningDamage.description=Oyuncular boğulmaktan hasar alır.
+gamerule.fallDamage=Düşme hasarı
+gamerule.fallDamage.description=Oyuncular düşmekten hasar alır.
+gamerule.fireDamage=Ateş hasarı
+gamerule.fireDamage.description=Oyuncular ateş ve lavdan hasar alır.
+gamerule.forgiveDeadPlayers=Ölü oyuncuları affet
+gamerule.forgiveDeadPlayers.description=Enderman ve Arı gibi kızgın nötr yaratıklar oyuncu öldüğünde kızgın olmayı bırakır.
+gamerule.freezeDamage=Donma hasarı
+gamerule.freezeDamage.description=Oyuncular toz karda donarak hasar alır.
+gamerule.functionCommandLimit=Fonksiyon komut limiti
+gamerule.functionCommandLimit.description=/function komutunun yürütebileceği komut limiti.
+gamerule.keepInventory=Envanteri koru
+gamerule.keepInventory.description=Oyuncular öldüklerinde envanterlerini korur.
+gamerule.logAdminCommands=Yönetici komutlarını kaydet
+gamerule.logAdminCommands.description=Sunucu günlüğüne yönetici komutlarını dahil eder.
+gamerule.maxCommandChainLength=Maksimum komut zinciri uzunluğu
+gamerule.maxCommandChainLength.description=Tik başına çalıştırılabilecek bir komut zincirinin maksimum uzunluğu.
+gamerule.maxEntityCramming=Maksimum varlık sıkışıklığı
+gamerule.maxEntityCramming.description=Bir oyuncunun boğulmadan önce içinde durabileceği yaratık miktarı.
+gamerule.mobGriefing=Yaratık zararı
+gamerule.mobGriefing.description=Yaratıklar eşyaları alabilir ve blokları yok edebilir.
+gamerule.naturalRegeneration=Doğal yenilenme
+gamerule.naturalRegeneration.description=Oyuncular açlıkları yeterince doluyken sağlıklarını yeniler.
+gamerule.playersSleepingPercentage=Oyuncu uyuma yüzdesi
+gamerule.playersSleepingPercentage.description=Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.
+gamerule.pvp=PvP
+gamerule.pvp.description=Oyuncular diğer oyuncularla savaşabilir.
+gamerule.randomTickSpeed=Rastgele tik hızı
+gamerule.randomTickSpeed.description=Bitkilerin büyüme, yaprakların çürüme ve ateşin yayılma hızı.
+gamerule.reducedDebugInfo=Azaltılmış hata ayıklama bilgisi
+gamerule.reducedDebugInfo.description=F3 ekranında sadece temel bilgileri göster.
+gamerule.respawnBlocksExplode=Yeniden doğma blokları patlar
+gamerule.respawnBlocksExplode.description=Yatakların ve yeniden doğma çapalarının diğer boyutlarda patlamasını durdurun.
+gamerule.sendCommandFeedback=Komut geri bildirimi gönder
+gamerule.sendCommandFeedback.description=Sohbette komut geri bildirimini göster.
+gamerule.showBorderEffect=Sınır efektini göster
+gamerule.showBorderEffect.description=Sınır bloklarının konumunu gösteren bir efekt görüntüler.
+gamerule.showCoordinates=Koordinatları göster
+gamerule.showCoordinates.description=Oyuncunun koordinatlarını göster.
+gamerule.showDeathMessages=Ölüm mesajlarını göster
+gamerule.showDeathMessages.description=Bir oyuncu öldüğünde sohbette ölüm mesajları gösterilir.
+gamerule.showTags=Etiketleri göster
+gamerule.showTags.description=Eşya kilit göstergelerini ve eşya açıklamasındaki yerleştirme/yok etme bilgilerini gizle.
+gamerule.spawnRadius=Doğma yarıçapı
+gamerule.spawnRadius.description=Oyuncuların doğduğu dünya doğma noktası etrafındaki yarıçap.
+gamerule.spectatorsGenerateChunks=İzleyiciler yığın oluşturabilir
+gamerule.spectatorsGenerateChunks.description=İzleyici modundaki oyuncular yeni yığınlar (chunk) oluşturur.
+gamerule.tntExplodes=TNT patlar
+gamerule.tntExplodes.description=TNT yakıldığında patlar.
+gamerule.universalAnger=Evrensel öfke
+gamerule.universalAnger.description=Kızgın nötr yaratıklar sadece saldırana değil tüm oyunculara saldırır.
+gamerule.gameLoopFunction=Oyun döngüsü fonksiyonu
+
+# Category names
+gamerule.category.player=Oyuncu
+gamerule.category.mobs=Yaratıklar
+gamerule.category.spawning=Doğma
+gamerule.category.drops=Ganimetler
+gamerule.category.world_updates=Dünya Güncellemeleri
+gamerule.category.chat=Sohbet
+gamerule.category.miscellaneous=Çeşitli
+gamerule.category.other=Diğer
+gamerule.category.pinned=Sabitlenenler
+
+## Window titles
+title.singleplayer=Tek Oyunculu
+title.multiplayer.realms=Çok Oyunculu (Realms)
+title.multiplayer.lan=Çok Oyunculu (Yerel Ağ)
+title.multiplayer.other=Çok Oyunculu (3. Taraf Sunucu)
+title.multiplayer.hosted=Çok Oyunculu (Barındırılan Dünya)
